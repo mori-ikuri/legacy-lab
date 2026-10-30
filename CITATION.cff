@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use legacy-lab, please cite it as below."
+title: legacy-lab
+type: software
+authors:
+  - name: Puyun
+    website: "https://github.com/mori-ikuri"
+repository-code: "https://github.com/mori-ikuri/legacy-lab"
+license: MIT
