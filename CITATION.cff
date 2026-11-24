@@ -7,3 +7,11 @@ authors:
     website: "https://github.com/mori-ikuri"
 repository-code: "https://github.com/mori-ikuri/legacy-lab"
 license: MIT
+references:
+  - type: data
+    title: "legacy-lab timeline data"
+    authors:
+      - name: Puyun
+        website: "https://github.com/mori-ikuri"
+    url: "https://github.com/mori-ikuri/legacy-lab/tree/main/data"
+    license: CC-BY-4.0
